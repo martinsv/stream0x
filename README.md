@@ -40,15 +40,15 @@
 
 # Building stream0x
 
-  The following instructions are for linux.  Building on indows is untested,
+  The following instructions are for linux.  Building on windows is untested,
   but should also work:
 
-  % cd ./stream0x
-  % make
+    % cd ./stream0x
+    % make
 
 # Running stream0x
 
-  ## Quickstart for the impatient
+## Quickstart for the impatient
 
   First, start the server.  Hostname and port are both required arguments:
 
@@ -78,7 +78,7 @@
 
     http://server:port 
 
-  # Extended usage
+## Extended usage
 
   stream0x is comprised by two parts, a server and client, each of which
   is a command line binary program.  Both programs contain a help menu:
