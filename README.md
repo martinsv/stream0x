@@ -1,4 +1,4 @@
-README :: stream0x :: tilton@cs.uchicago.edu :: cspp 51045
+# README :: stream0x :: tilton@cs.uchicago.edu :: cspp 51045
 
 # About stream0x
 
@@ -48,7 +48,7 @@ README :: stream0x :: tilton@cs.uchicago.edu :: cspp 51045
 
 # Running stream0x
 
-  # Quickstart for the impatient
+  ## Quickstart for the impatient
 
   First, start the server.  Hostname and port are both required arguments:
 
